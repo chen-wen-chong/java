@@ -33,5 +33,6 @@ class Solution {
         System.out.println("嘻嘻");
         System.out.println("第一次提交");
         System.out.println("master test");
+        System.out.println("我这次修改了git");
     }
 }
