@@ -30,6 +30,6 @@ class Solution {
         while(listNode!=null){
             System.out.println(listNode.val);
         }
-
+        System.out.println("嘻嘻");
     }
 }
