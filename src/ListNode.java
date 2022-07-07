@@ -35,5 +35,6 @@ class Solution {
         System.out.println("master test");
         System.out.println("我这次修改了git");
         System.out.println("在github修改");
+        System.out.println("我在idea修改了代码");
     }
 }
