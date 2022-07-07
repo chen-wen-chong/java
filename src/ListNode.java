@@ -31,5 +31,6 @@ class Solution {
             System.out.println(listNode.val);
         }
         System.out.println("嘻嘻");
+        System.out.println("第一次提交");
     }
 }
